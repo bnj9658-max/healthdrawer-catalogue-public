@@ -1,0 +1,7 @@
+{
+  "schema": "healthdrawer-public-data-notice",
+  "version": 1,
+  "scope": "Selected public product facts and source label images only. No app source, accounts, private photos, holdings or health records. Review channel; not a medical recommendation or current retail availability guarantee.",
+  "sources": [],
+  "withdrawal": "A later signed-app-approved publisher manifest can withdraw a source revision. This does not recover copies already downloaded from the public Internet or delete personal history."
+}
