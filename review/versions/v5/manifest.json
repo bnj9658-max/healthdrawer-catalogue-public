@@ -1,0 +1,22 @@
+{
+  "schema": "healthdrawer-publication",
+  "version": 2,
+  "sequence": 5,
+  "files": [
+    {
+      "path": "versions/v5/file-0.json",
+      "kind": "catalogue",
+      "bytes": 32831,
+      "sha256": "e17e74f30aa4b833b00579d8ed8695f0a6321e4f018807e9ce49ed84d0f26951"
+    }
+  ],
+  "states": [
+    {
+      "provider": "nih-ods",
+      "service": "DSLD-v9",
+      "productId": "20580",
+      "revision": "dsld-raw-6decb744976054df34036d78275a1a760f0631cd360f6b49d108b5f237092192",
+      "status": "active"
+    }
+  ]
+}
