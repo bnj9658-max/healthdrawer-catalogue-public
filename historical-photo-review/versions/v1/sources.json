@@ -1,0 +1,15 @@
+{
+  "schema": "healthdrawer-public-data-notice",
+  "version": 1,
+  "scope": "Selected public product facts and source label images only. No app source, accounts, private photos, holdings or health records. Review channel; not a medical recommendation or current retail availability guarantee.",
+  "sources": [
+    {
+      "provider": "wikimedia-commons",
+      "service": "Commons",
+      "source": "https://commons.wikimedia.org/",
+      "terms": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "scope": "Historical package photographs; per-item author, source, date and changes. CC BY-SA 4.0 applies to photographs, not app code. No official product identity or market assertion."
+    }
+  ],
+  "withdrawal": "A later signed-app-approved publisher manifest can withdraw a source revision. This does not recover copies already downloaded from the public Internet or delete personal history."
+}
