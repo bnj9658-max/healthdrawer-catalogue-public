@@ -1,0 +1,20 @@
+{
+  "schema": "healthdrawer-publication",
+  "version": 2,
+  "sequence": 1,
+  "files": [
+    {
+      "path": "versions/v1/file-0.json",
+      "kind": "retail",
+      "bytes": 2253,
+      "sha256": "ef665a1ca5b6f138456362844d3e710f149670278ecc25a99009f2724e377d1a"
+    },
+    {
+      "path": "versions/v1/file-1.jpg",
+      "kind": "image",
+      "bytes": 823500,
+      "sha256": "7613ab8cb819da96ce051b563e9d17018fa7c26beb8eadfab591b00a3299cd7c"
+    }
+  ],
+  "states": []
+}
