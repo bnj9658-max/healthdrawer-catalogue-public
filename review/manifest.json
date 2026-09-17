@@ -1,19 +1,13 @@
 {
   "schema": "healthdrawer-publication",
   "version": 2,
-  "sequence": 4,
+  "sequence": 5,
   "files": [
     {
-      "path": "versions/v4/file-0.json",
-      "kind": "dsld",
-      "bytes": 16507,
-      "sha256": "0903980f25b2e6ecd296c85d01898424893cd5b11391455986e48d08753b65e7"
-    },
-    {
-      "path": "versions/v4/file-1.jpg",
-      "kind": "image",
-      "bytes": 13237,
-      "sha256": "fc9d0eefae0cc96775ccfaaa781443fca4487d8e71cee219d11a1defff0fa1b6"
+      "path": "versions/v5/file-0.json",
+      "kind": "catalogue",
+      "bytes": 32831,
+      "sha256": "e17e74f30aa4b833b00579d8ed8695f0a6321e4f018807e9ce49ed84d0f26951"
     }
   ],
   "states": [
