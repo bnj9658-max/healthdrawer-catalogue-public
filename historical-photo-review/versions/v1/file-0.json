@@ -1,0 +1,51 @@
+{
+  "schema": "healthdrawer-retail-photo-material",
+  "version": 2,
+  "payloadSha256": "087be07fc65d654aeddd9039bf66f41b8be2e6b690e8678e6e3830e7c10b3fa4",
+  "payload": {
+    "photos": [
+      {
+        "supplier": "wikimedia-commons",
+        "service": "Commons",
+        "sourceProductId": "42482638",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_Ginseng_merchandise.jpg",
+        "fetchedAt": "2026-09-17T13:32:38Z",
+        "sourceRevision": "commons-42482638-crop-7613ab8c-v2",
+        "market": "unknown",
+        "saleName": "정관장 활기력 · 2015년 촬영 포장",
+        "identity": null,
+        "package": {
+          "id": "observed-20ml-10bottles-2015",
+          "description": "사진 속 표기: 20mL × 10병 (200mL) · KGC 인삼공사",
+          "evidence": "2015-03-25 Taiwan photograph; visible package text only. Not current market/formulation verification."
+        },
+        "rights": {
+          "display": true,
+          "cache": true,
+          "redistribute": true,
+          "process": true,
+          "evidence": "Mar del Este / Wikimedia Commons / Korean Ginseng merchandise.jpg / CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/; retain attribution and share-alike; 2015 package only"
+        },
+        "image": {
+          "sha256": "7613ab8cb819da96ce051b563e9d17018fa7c26beb8eadfab591b00a3299cd7c",
+          "bytes": 823500,
+          "width": 2420,
+          "height": 1160,
+          "mimeType": "image/jpeg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Korean_Ginseng_merchandise.jpg",
+          "processing": "crop"
+        },
+        "observation": {
+          "officialLinkState": "pending",
+          "author": "Mar del Este",
+          "license": "CC-BY-SA-4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "capturedAt": "2015-03-25",
+          "capturePlace": "대만에서 촬영 (판매 대상국 미확인)",
+          "changes": "활기력 상자 부분 직사각형 crop, JPEG 재인코딩, 메타데이터 제거. 배경 제거·생성형 편집 없음.",
+          "originalSha256": "a38c3cf066c4099f98e25d75c7df6e3f23b6a801629086aa3a22fcf35c2b85db"
+        }
+      }
+    ]
+  }
+}
