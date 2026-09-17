@@ -1,0 +1,24 @@
+{
+  "schema": "healthdrawer-public-data-notice",
+  "version": 1,
+  "scope": "Selected public product facts and source label images only. No app source, accounts, private photos, holdings or health records. Review channel; not a medical recommendation or current retail availability guarantee.",
+  "sources": [
+    {
+      "provider": "mfds-data-go-kr",
+      "service": "HtfsInfoService03",
+      "source": "https://apis.data.go.kr/1471000/HtfsInfoService03/getHtfsItem01",
+      "terms": "https://www.data.go.kr/data/15056760/openapi.do",
+      "metadata": "https://www.data.go.kr/catalog/15056760/openapi.json",
+      "license": "이용허락범위 제한 없음",
+      "scope": "Selected text records actually obtained from dataset 15056760 / HtfsInfoService03. This license does not apply to C003 records or product photos. Manufacturer is not brand; registration date is not last modification; source text is not a retail package or safety guarantee."
+    },
+    {
+      "provider": "nih-ods",
+      "service": "DSLD-v9",
+      "source": "https://api.ods.od.nih.gov/dsld/v9/",
+      "terms": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "National Institutes of Health, Office of Dietary Supplements. Dietary Supplement Label Database, 2026. US package labels, not Korean products or front packshots; trademarks remain with their owners. No endorsement."
+    }
+  ],
+  "withdrawal": "A later signed-app-approved publisher manifest can withdraw a source revision. This does not recover copies already downloaded from the public Internet or delete personal history."
+}
