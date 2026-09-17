@@ -1,0 +1,15 @@
+{
+  "schema": "healthdrawer-publication",
+  "version": 2,
+  "sequence": 3,
+  "files": [],
+  "states": [
+    {
+      "provider": "nih-ods",
+      "service": "DSLD-v9",
+      "productId": "20580",
+      "revision": "dsld-raw-6decb744976054df34036d78275a1a760f0631cd360f6b49d108b5f237092192",
+      "status": "withdrawn"
+    }
+  ]
+}
