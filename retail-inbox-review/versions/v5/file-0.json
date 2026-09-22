@@ -1,0 +1,51 @@
+{
+  "schema": "healthdrawer-retail-photo-material",
+  "version": 5,
+  "payloadSha256": "d4de5fb7492d8c6c1b5944a9fb035b843e88c6a17b11cde231fa65a7fe5a4242",
+  "payload": {
+    "photos": [
+      {
+        "fetchedAt": "2026-09-22T05:34:59Z",
+        "identity": null,
+        "image": {
+          "bytes": 31104,
+          "height": 1000,
+          "mimeType": "image/png",
+          "processing": "original",
+          "sha256": "8e60ae8cc2e85fa6813ebc4d82be0b2e70e6d0f637e7c944937ca668773264a0",
+          "sourceUrl": "https://raw.githubusercontent.com/bnj9658-max/healthdrawer-catalogue-public/main/retail-inbox-review/versions/v1/file-1.png",
+          "width": 1000
+        },
+        "listingInformation": {
+          "brand": "건강서랍 QA",
+          "cautions": null,
+          "form": "시험 카드",
+          "ingredients": null,
+          "intake": null,
+          "manufacturer": null,
+          "reviewEvidence": "Reviewed product page: https://raw.githubusercontent.com/bnj9658-max/healthdrawer-catalogue-public/main/retail-inbox-review/versions/v1/sources.json",
+          "storage": "개발 시험용 수정 기록 · 실제 보관 안내 아님"
+        },
+        "market": "unknown",
+        "package": {
+          "description": "시험 카드 1개 · 소매 포장 아님",
+          "evidence": "Reviewed product page: https://raw.githubusercontent.com/bnj9658-max/healthdrawer-catalogue-public/main/retail-inbox-review/versions/v1/sources.json",
+          "id": "observed-990001"
+        },
+        "rights": {
+          "cache": true,
+          "display": true,
+          "evidence": "HealthDrawer-owned QA text artwork. Authorized development review-channel distribution; not manufacturer content or actual retail product.",
+          "process": true,
+          "redistribute": true
+        },
+        "saleName": "시험용 솔빛",
+        "service": "integration",
+        "sourceProductId": "990001",
+        "sourceRevision": "review-1b43198d06d5e9b0537141c9d610d760fd9f7356cadd8fa8c7ec2a9ea6050aeb",
+        "sourceUrl": "https://raw.githubusercontent.com/bnj9658-max/healthdrawer-catalogue-public/main/retail-inbox-review/versions/v1/sources.json",
+        "supplier": "healthdrawer-qa"
+      }
+    ]
+  }
+}
