@@ -1,0 +1,35 @@
+{
+  "schema": "healthdrawer-publication",
+  "version": 2,
+  "sequence": 2,
+  "files": [
+    {
+      "path": "versions/v2/file-0.json",
+      "kind": "retail",
+      "bytes": 2236,
+      "sha256": "42a676b25e1721cbda6eedbbfe4605d0cd9abfb022d17288c838875c8568d951"
+    },
+    {
+      "path": "versions/v2/file-1.png",
+      "kind": "image",
+      "bytes": 29720,
+      "sha256": "b191024adbd7430e44107448dc5259b5d09fbf9e77799e8780fb3c42c9a8024a"
+    }
+  ],
+  "states": [
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "productId": "990001",
+      "revision": "review-f389d7c7342b7d35526b15cda208147af500d31ccd68006c8e7e2623c99f6294",
+      "status": "active"
+    },
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "productId": "990002",
+      "revision": "review-63077c7ad6ba029c99b247abff7c0cede26b5f57cb11c4159ac5bc27a0ea0ca0",
+      "status": "active"
+    }
+  ]
+}
