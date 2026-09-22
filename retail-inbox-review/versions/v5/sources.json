@@ -1,0 +1,14 @@
+{
+  "schema": "healthdrawer-public-data-notice",
+  "version": 1,
+  "scope": "Selected public product facts and source label images only. No app source, accounts, private photos, holdings or health records. Review channel; not a medical recommendation or current retail availability guarantee.",
+  "sources": [
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "source": "https://github.com/bnj9658-max/healthdrawer-catalogue-public",
+      "scope": "Owned development test artwork; not real retail products or manufacturer data. Review channel only."
+    }
+  ],
+  "withdrawal": "A later signed-app-approved publisher manifest can withdraw a source revision. This does not recover copies already downloaded from the public Internet or delete personal history."
+}
