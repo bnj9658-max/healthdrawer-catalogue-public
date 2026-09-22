@@ -1,0 +1,49 @@
+{
+  "schema": "healthdrawer-publication",
+  "version": 2,
+  "sequence": 5,
+  "files": [
+    {
+      "path": "versions/v5/file-0.json",
+      "kind": "retail",
+      "bytes": 2243,
+      "sha256": "8d63fdade91ccd3b50d315fa850a778f59b853d23f60f9ebd6594fec88855fd7"
+    },
+    {
+      "path": "versions/v5/file-1.png",
+      "kind": "image",
+      "bytes": 31104,
+      "sha256": "8e60ae8cc2e85fa6813ebc4d82be0b2e70e6d0f637e7c944937ca668773264a0"
+    }
+  ],
+  "states": [
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "productId": "990001",
+      "revision": "review-f389d7c7342b7d35526b15cda208147af500d31ccd68006c8e7e2623c99f6294",
+      "status": "withdrawn"
+    },
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "productId": "990002",
+      "revision": "review-63077c7ad6ba029c99b247abff7c0cede26b5f57cb11c4159ac5bc27a0ea0ca0",
+      "status": "active"
+    },
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "productId": "990003",
+      "revision": "review-acfc2fd3afee6dd6916b6babb341f0c3dfc8c1d598c89f6736618b5e46862ff2",
+      "status": "active"
+    },
+    {
+      "provider": "healthdrawer-qa",
+      "service": "integration",
+      "productId": "990001",
+      "revision": "review-1b43198d06d5e9b0537141c9d610d760fd9f7356cadd8fa8c7ec2a9ea6050aeb",
+      "status": "active"
+    }
+  ]
+}
